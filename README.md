@@ -8,3 +8,5 @@ DISCLAIMER: We are not related with FruitZeus in any way. This repo provides an 
 # Instructions
 1) To the output csv file add to the first row manually the parameter "Variant" before the comma so Pandas
 interprets the first row as the columns instead of a Index of values.
+2) Run the **csv_to_each_json.py** and generate the metadata properly.
+3) If you know the IPFS directory to the images, you can edit each JSON by running the **nftMetadataEditIPFS.py** file.
