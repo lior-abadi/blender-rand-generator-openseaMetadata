@@ -1,0 +1,2 @@
+# Prevent all Jupyter Testing files to be uploaded
+*.ipynb
